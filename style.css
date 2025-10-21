@@ -14,7 +14,7 @@ kartu-profil {
    text-align: center;
 }
 
-.kartu-pelajar img {
+.kartu-profil img {
   width: 150px;
   border-radius: 50%; /* menengahkan semua teks di dalam kartu */
 }
