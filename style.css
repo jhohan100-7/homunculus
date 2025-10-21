@@ -11,10 +11,10 @@ kartu-profil {
    background-color: white;
    border-radius: 15px; /* Membuat sudut menjadi melengkung */
    box-shadow: 6 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
-    text-align: center;
+   text-align: center;
 }
 
 .kartu-pelajar img {
   width: 150px;
-  border-radius: 50%; /* menegahkan semua teks di dalam kartu */
+  border-radius: 50%; /* menengahkan semua teks di dalam kartu */
 }
